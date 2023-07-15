@@ -14,4 +14,4 @@
 ---
 include:
   - board: nrfmicro_13
-    shield: nice_view
+    shield: [ "corne_left", "corne_right" ]

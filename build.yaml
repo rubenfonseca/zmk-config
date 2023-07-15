@@ -13,5 +13,5 @@
 #
 ---
 include:
-  board: nrfmicro_13
-  shield: "corne_left"
+  - board: nrfmicro_13
+    shield: corne_left

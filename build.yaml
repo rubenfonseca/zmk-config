@@ -12,5 +12,6 @@
 #     shield: reviung41
 #
 ---
-board: nrfmicro_13
-shield: [ "corne_left", "corne_right" ]
+include:
+  board: nrfmicro_13
+  shield: "corne_left"
